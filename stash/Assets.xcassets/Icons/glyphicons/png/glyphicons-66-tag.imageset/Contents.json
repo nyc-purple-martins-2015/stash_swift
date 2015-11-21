@@ -4,6 +4,14 @@
       "idiom" : "universal",
       "filename" : "glyphicons-66-tag.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {

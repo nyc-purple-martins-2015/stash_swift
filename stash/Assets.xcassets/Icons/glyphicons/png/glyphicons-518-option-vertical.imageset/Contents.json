@@ -4,6 +4,14 @@
       "idiom" : "universal",
       "filename" : "glyphicons-518-option-vertical.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {

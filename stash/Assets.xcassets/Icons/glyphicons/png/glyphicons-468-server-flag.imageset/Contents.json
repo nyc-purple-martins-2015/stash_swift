@@ -4,6 +4,14 @@
       "idiom" : "universal",
       "filename" : "glyphicons-468-server-flag.png",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
     }
   ],
   "info" : {
